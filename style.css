@@ -1,0 +1,12 @@
+.send{
+    /* width: 50px; */
+    height: 34px;
+    border: 2px solid black;
+}
+.body{
+    align-items: center;
+}
+.myform{
+    height: 34px;
+    width: 50px;
+}
